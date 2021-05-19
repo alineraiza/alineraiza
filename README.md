@@ -3,7 +3,7 @@ I'm Aline Raíza, studant of the Internet Sistem and I'm in love with Flutter. I
 
 <details> 
   <summary> <b> Things to know about me! </b> <i> (click to expand) </summary>
-   <h4 align="left"> 🛠 Lengagues and Tools:</h4>
+   <h4 align="left"> 🛠 Languages and Tools:</h4>
     *Dart/Flutter <br>
     *Figma <br>
     *HTML5 <br>
