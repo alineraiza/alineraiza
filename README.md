@@ -7,7 +7,6 @@ I'm Aline Raíza, an Internet Systems student in love with Flutter. I like so mu
     *Dart/Flutter <br>
     *Figma <br>
     *HTML5 <br>
-    *Firebase <br>
     <h4 align="left"> 🤝Let's connect on LinkedIn? https://www.linkedin.com/in/aline-raiza-rodrigues-marques/ </h4>
     
  </details>
